@@ -1,2 +1,3 @@
 # ro3
-3-row keyboard with alice's double B.
+A 3-row keyboard inspired by 30wer, Gnapkin, and Alpha, with the addition of alice's double B.
+
